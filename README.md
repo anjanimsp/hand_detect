@@ -7,3 +7,7 @@ It's Computer Vision solution in which what I did I detect a hand and also draw 
 
 ![handdetect](https://user-images.githubusercontent.com/16057072/107121209-2c82b700-68b7-11eb-8fd2-a97bef5dc68c.PNG)
 
+
+![alert](https://user-images.githubusercontent.com/16057072/107121380-1c1f0c00-68b8-11eb-8fc4-dabe8dedc6d6.PNG)
+
+
